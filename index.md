@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Lab di Tecnologie Web
 ---
 
 ## Introduzione del corso
