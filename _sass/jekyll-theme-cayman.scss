@@ -376,3 +376,18 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+
+table th {
+  background-color: $header-bg-color;
+  border: none;
+  color: #fff;
+}
+
+table thead {
+  border-bottom: solid 1pt #084226;
+}
+
+table tr:nth-child(odd) {
+  background-color: $border-color;
+}
